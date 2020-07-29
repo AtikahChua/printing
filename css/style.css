@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&family=Raleway:ital,wght@0,300;1,100&family=Red+Rose:wght@300;400&family=Roboto:wght@100;300&display=swap');
+
+@import url(components/button.css);
+@import url(components/container.css);
+@import url(components/banner.css);
+@import url(components/card.css);
+@import url(components/avatar.css);
+
+body {
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  margin: 0px;
+  font-style: bold;
+}
+
+h1,h2 {
+  font-family: 'Roboto', sans-serif;
+}
+
+h3 {
+  font-family: 'Noto Sans JP', sans-serif;
+  font-weight: bolder;
+  font-size: 25px;
+  position: center;
+  justify-content: center;
+  margin-right: 0px;
+}
+
+a {
+  text-decoration: none;
+}
+
